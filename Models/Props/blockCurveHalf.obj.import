@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mylotsmygwrn"
+path="res://.godot/imported/blockCurveHalf.obj-afb4f64caf440ab0834a1fb8a77cbbff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockCurveHalf.obj-afb4f64caf440ab0834a1fb8a77cbbff.mesh"]
+
+source_file="res://Models/Props/blockCurveHalf.obj"
+dest_files=["res://.godot/imported/blockCurveHalf.obj-afb4f64caf440ab0834a1fb8a77cbbff.mesh", "res://.godot/imported/blockCurveHalf.obj-afb4f64caf440ab0834a1fb8a77cbbff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

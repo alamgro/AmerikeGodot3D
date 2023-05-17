@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnvbkcxy3h4eu"
+path="res://.godot/imported/blockHexagonLow.obj-7de63bf285f4a2ec1e7841d3bb74746f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockHexagonLow.obj-7de63bf285f4a2ec1e7841d3bb74746f.mesh"]
+
+source_file="res://Models/Props/blockHexagonLow.obj"
+dest_files=["res://.godot/imported/blockHexagonLow.obj-7de63bf285f4a2ec1e7841d3bb74746f.mesh", "res://.godot/imported/blockHexagonLow.obj-7de63bf285f4a2ec1e7841d3bb74746f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

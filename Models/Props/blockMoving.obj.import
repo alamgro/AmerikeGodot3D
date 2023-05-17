@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dnc3fquhpdgut"
+path="res://.godot/imported/blockMoving.obj-b91ddbcf4f8132a35130d04851e158ba.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockMoving.obj-b91ddbcf4f8132a35130d04851e158ba.mesh"]
+
+source_file="res://Models/Props/blockMoving.obj"
+dest_files=["res://.godot/imported/blockMoving.obj-b91ddbcf4f8132a35130d04851e158ba.mesh", "res://.godot/imported/blockMoving.obj-b91ddbcf4f8132a35130d04851e158ba.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

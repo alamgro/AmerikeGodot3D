@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7cjxfn67if5w"
+path="res://.godot/imported/blockSnowHexagonLow.obj-409e09b49c67275f024b3f2d20cfc785.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockSnowHexagonLow.obj-409e09b49c67275f024b3f2d20cfc785.mesh"]
+
+source_file="res://Models/Props/blockSnowHexagonLow.obj"
+dest_files=["res://.godot/imported/blockSnowHexagonLow.obj-409e09b49c67275f024b3f2d20cfc785.mesh", "res://.godot/imported/blockSnowHexagonLow.obj-409e09b49c67275f024b3f2d20cfc785.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

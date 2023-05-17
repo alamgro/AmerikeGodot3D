@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ctx6hqlse777u"
+path="res://.godot/imported/blockHexagon.obj-852bcede0d2246e5556fc976d8214c02.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockHexagon.obj-852bcede0d2246e5556fc976d8214c02.mesh"]
+
+source_file="res://Models/Props/blockHexagon.obj"
+dest_files=["res://.godot/imported/blockHexagon.obj-852bcede0d2246e5556fc976d8214c02.mesh", "res://.godot/imported/blockHexagon.obj-852bcede0d2246e5556fc976d8214c02.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

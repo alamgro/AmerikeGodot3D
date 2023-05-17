@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2i7etfay0dy6"
+path="res://.godot/imported/blockSnowSlopeHalf.obj-708b28c0bc579fd8e86a8521a8827e06.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blockSnowSlopeHalf.obj-708b28c0bc579fd8e86a8521a8827e06.mesh"]
+
+source_file="res://Models/Props/blockSnowSlopeHalf.obj"
+dest_files=["res://.godot/imported/blockSnowSlopeHalf.obj-708b28c0bc579fd8e86a8521a8827e06.mesh", "res://.godot/imported/blockSnowSlopeHalf.obj-708b28c0bc579fd8e86a8521a8827e06.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

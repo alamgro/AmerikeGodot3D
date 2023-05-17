@@ -1,0 +1,17 @@
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\AmerikeGodot3D.deps.json
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\AmerikeGodot3D.runtimeconfig.json
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\AmerikeGodot3D.dll
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\AmerikeGodot3D.pdb
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\GodotSharp.dll
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.csproj.AssemblyReference.cache
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.AssemblyInfoInputs.cache
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.AssemblyInfo.cs
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.csproj.CoreCompileInputs.cache
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.csproj.CopyComplete
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.dll
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\refint\AmerikeGodot3D.dll
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.pdb
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\AmerikeGodot3D.genruntimeconfig.cache
+E:\MisArchivos\GodotProjects\AmerikeGodot3D\.godot\mono\temp\obj\Debug\ref\AmerikeGodot3D.dll

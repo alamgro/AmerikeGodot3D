@@ -1,0 +1,8 @@
+CollisionShape3D
+StaticBody3D
+DirectionalLight3D
+Area3D
+RigidBody3D
+Camera3D
+AnimationTree
+CharacterBody3D

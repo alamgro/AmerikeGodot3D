@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://72iy25xg3ur4"
+path="res://.godot/imported/ladderBroken.obj-ef75b0c556e3706d88e3084b730fd98d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ladderBroken.obj-ef75b0c556e3706d88e3084b730fd98d.mesh"]
+
+source_file="res://Models/Props/ladderBroken.obj"
+dest_files=["res://.godot/imported/ladderBroken.obj-ef75b0c556e3706d88e3084b730fd98d.mesh", "res://.godot/imported/ladderBroken.obj-ef75b0c556e3706d88e3084b730fd98d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

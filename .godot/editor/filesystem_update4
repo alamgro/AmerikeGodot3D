@@ -1,1 +1,5 @@
 res://Scenes/Main.tscn
+res://Models/Props/block_prop.tres
+res://Models/Props/SlopeProp.tres
+res://Models/Props/SlopeProp.tscn
+res://Models/Props/SnowProp.tscn

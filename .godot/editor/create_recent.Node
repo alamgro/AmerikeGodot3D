@@ -1,4 +1,7 @@
+SpringArm3D
+GridMap
 CollisionShape3D
+MeshInstance3D
 StaticBody3D
 DirectionalLight3D
 Area3D
